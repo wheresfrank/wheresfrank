@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Frank Johnette 👋
+
+I'm a full-stack rails engineer. I have experience working on a team building new features and fixing defects on large, established prodects and I have some things I've been working on too.
+
+## My Work
+
+#### Open Source
+
+Rss Reader
+
+[Demo](https://rss-reader-irkm.onrender.com/) : [Repository](https://github.com/wheresfrank/rss_reader)
 
 <!--
 **wheresfrank/wheresfrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
